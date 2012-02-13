@@ -1,0 +1,7 @@
+{
+  "app_file": "dist/flow.js",
+  
+  "src": ["lib/core.js",
+	  "lib/runloop.js",
+	  "lib/bindings.js"]
+}

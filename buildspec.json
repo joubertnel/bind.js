@@ -1,0 +1,4 @@
+{
+  "app_src": ["dist/flow.js"],
+  "spec_src": ["spec/flow.spec.js"]
+}
